@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+.DS_Store
+build
+.git
+*.egg-info
+dist
+output
+backup
+__pycache__
+*sqlite
